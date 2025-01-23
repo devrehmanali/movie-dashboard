@@ -1,5 +1,14 @@
 # Movie Dashboard App - Setup and Running Instructions
 
+## Demo Video
+
+For a quick overview of the app, watch the demo video:
+
+[![Watch the video](screenshot_1.png)](recording_movei_dashboard.mp4)
+
+![Screenshot 1](screenshot_1.png)
+![Screenshot 2](screenshot_2.png)
+
 This project is built using React and Vite. Below are the instructions to get started and run the app.
 
 ## 1. Clone the Repository
